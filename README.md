@@ -2,10 +2,7 @@
 Gitcoin: 0) Setup a Local CKB Node and CKB Indexer for the Testnet
 
 
-CKB Node
+CKB Node and CKB Indexer
 
-![alt text](https://github.com/kevgllt/Hackathon-Nervos-Gitcoin-0/blob/main/CKBnode.png)
+![alt text](https://github.com/kevgllt/Hackathon-Nervos-Gitcoin-0/blob/main/nervos-gitcoin-0.png?raw=true)
 
-CKB Indexer
-
-![alt text](https://github.com/kevgllt/Hackathon-Nervos-Gitcoin-0/blob/main/CKBindexer.png)
